@@ -7,7 +7,7 @@ created: 2026-10-26
 updated: 2026-10-26
 ---
 
-> Provenance: compiled by Grok at Doug's request on 2026-10-26 and moved here unedited from `/d/dl/`. Confidence is `assumed` until the Crossway pages linked below are fetched and checked. The broader version survey is [[Bible Text Licensing & APIs]]; the ISA's text decision (free text first, ESV investigated after a working prototype) is in [[Projects/Proverbs/Ideal State|Ideal State]].
+> Provenance: compiled by Grok at Doug's request on 2026-10-26 and moved here unedited from `/d/dl/`. Confidence is `assumed` until the Crossway pages linked below are fetched and checked. The broader version survey is [[Bible Text Licensing & APIs]]; the ISA's text decision (free text first, ESV investigated after a working prototype) is in [[Ideal State|Ideal State]].
 
 # ESV (English Standard Version) Licensing for an iOS App  
 **Focus: Book of Proverbs**  

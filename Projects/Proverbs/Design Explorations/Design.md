@@ -6,7 +6,7 @@ updated: 2026-10-27
 
 # Proverbs — Design
 
-How the app is built. Intent lives in [[Projects/Proverbs/Ideal State|Ideal State]]; this page holds the implementation decisions and their dates.
+How the app is built. Intent lives in [[Ideal State|Ideal State]]; this page holds the implementation decisions and their dates.
 
 ## Working mode (2026-10-26)
 
@@ -71,6 +71,6 @@ One JSON document per cloud, with stable UUIDs so re-import deduplicates, and a 
 
 ## Related
 
-- [[Projects/Proverbs/Ideal State|Ideal State]]
+- [[Ideal State|Ideal State]]
 - [[Categorization Scheme]] — data model inputs
 - [[Exploration Plan]] — Phase 3 storage sketch (bundled SQLite vs JSON; SwiftData + CloudKit for user data)

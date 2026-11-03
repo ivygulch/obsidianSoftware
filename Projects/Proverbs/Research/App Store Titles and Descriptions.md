@@ -8,7 +8,7 @@ updated: 2026-10-26
 
 # Proverbs — App Store Titles and Descriptions
 
-> Title and description research for naming the [[Projects/Proverbs/Ideal State|Proverbs]] app and writing its listing. US App Store, fetched 2026-10-26 through the appstore MCP tools (search, app details, keyword scores). Builds on the 2026-10-03 competitor scan in [[Proverbs & Situational Scripture Apps — Landscape]]; apps new since then are marked. Keyword difficulty and traffic figures are the tool's own heuristic scores on a 0 to 10 scale, not measured search volume. The tool does not return subtitles or store categories, so those two fields remain unmeasured. Rating counts are the tool's `reviews` field.
+> Title and description research for naming the [[Ideal State|Proverbs]] app and writing its listing. US App Store, fetched 2026-10-26 through the appstore MCP tools (search, app details, keyword scores). Builds on the 2026-10-03 competitor scan in [[Proverbs & Situational Scripture Apps — Landscape]]; apps new since then are marked. Keyword difficulty and traffic figures are the tool's own heuristic scores on a 0 to 10 scale, not measured search volume. The tool does not return subtitles or store categories, so those two fields remain unmeasured. Rating counts are the tool's `reviews` field.
 
 ## Searches run
 
@@ -115,7 +115,7 @@ Against the ISA's intent, these are absent from every title and description foun
 
 ## Relevant To
 
-- [[Projects/Proverbs/Ideal State|Ideal State]]
-- [[Projects/Proverbs/Design|Design]] — product name is an open scaffold decision
+- [[Ideal State|Ideal State]]
+- [[Projects/Proverbs/Design Explorations/Design|Design]] — product name is an open scaffold decision
 - [[Proverbs & Situational Scripture Apps — Landscape]]
 - [[ESV Licensing Guide]] — Memorize Proverbs shows a solo developer shipping a complete licensed NASB book

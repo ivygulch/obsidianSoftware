@@ -24,7 +24,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## Related
 - [[Ideal State]] — intent, constraints, decisions, criteria with evals (source of truth for the build)
-- [[Design]]
+- [[Projects/Skyjo/Design]]
 - [[Research]]
 - [[Development Log]]
 - [[Marketing]]

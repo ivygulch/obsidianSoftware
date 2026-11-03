@@ -26,7 +26,7 @@ Proposed 2026-11-03 in answer to "should the first step be a POC with all the sc
 
 Doug's own, since the first user the curated layer has to satisfy is Doug. Each is one sentence the way a user would say it, plus the tags Doug would expect it to need, across axes. Ten should be answerable from the chapters tagged in step 2 and ten should not, to catch false hits (from the Exploration Plan). Cost: about an hour.
 
-Template, one row per scenario:
+Suggested starting set: [[POC Step 01 - Sample scenarios]]. Template, one row per scenario:
 
 | # | Scenario, as a user would say it | Expected tags (axis: value) | Answerable from the slice? | Passages I already know should appear |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ Also record: how many scenarios were mostly full matches and how many were mostl
 
 ### 4. Pick one register and one composition pattern
 
-From [[Design Explorations v1 — Rationale]], whose own closing note asks for this choice: one of the A, B, C registers (or named pieces from each) and one of the D1 to D3 composition patterns. Step 3 informs it: if results are mostly full matches, the results screen carries the weight and D4's "why it matched" view matters most; if mostly partials, the composer and its suggestions (ISC-45) carry the weight. Record the choice as a dated entry in [[Design]].
+From [[Design Explorations v1 — Rationale]], whose own closing note asks for this choice: one of the A, B, C registers (or named pieces from each) and one of the D1 to D3 composition patterns. Step 3 informs it: if results are mostly full matches, the results screen carries the weight and D4's "why it matched" view matters most; if mostly partials, the composer and its suggestions (ISC-45) carry the weight. Record the choice as a dated entry in [[Projects/Proverbs/Design Explorations/Design]].
 
 ### 5. Thin prototype of the primary path
 
-Composer, results, passage, one link hop. Nothing else: no sessions, no groups, no settings, no onboarding. A throwaway SwiftUI app reading the step 2 spreadsheet exported as JSON. One register. Real BSB text. Claude writes it under Doug's direction, per the working mode in [[Design]].
+Composer, results, passage, one link hop. Nothing else: no sessions, no groups, no settings, no onboarding. A throwaway SwiftUI app reading the step 2 spreadsheet exported as JSON. One register. Real BSB text. Claude writes it under Doug's direction, per the working mode in [[Projects/Proverbs/Design Explorations/Design]].
 
 Put it in front of three to five target users who know the book. Watch for, without prompting: do they compose a scenario from more than one tag; does the top band satisfy them; do they follow a link from a passage. Each session produces a filled copy of the step 1 table with the user's own scenarios, which grows the test set.
 
@@ -84,7 +84,7 @@ The questions this POC exists to settle, from the v1 rationale's unsettled list:
 
 ### 7. Schema and builder
 
-Turn the spreadsheet into the curated SQLite schema and the cloud JSON export format already decided in [[Design]]. Only then design the builder's authoring surface, against a vocabulary that has stopped moving; the Builder ISA is still at the drafting stage. Scaffold the production app (TCA26, SQLiteData, iOS 27, two packages, three targets) once the schema exists. The data-level ISC tests (1 to 8, 41 to 44) run against the produced file.
+Turn the spreadsheet into the curated SQLite schema and the cloud JSON export format already decided in [[Projects/Proverbs/Design Explorations/Design]]. Only then design the builder's authoring surface, against a vocabulary that has stopped moving; the Builder ISA is still at the drafting stage. Scaffold the production app (TCA26, SQLiteData, iOS 27, two packages, three targets) once the schema exists. The data-level ISC tests (1 to 8, 41 to 44) run against the produced file.
 
 ## What this plan does not decide
 
@@ -100,4 +100,4 @@ Turn the spreadsheet into the curated SQLite schema and the cloud JSON export fo
 - [[Design Explorations v1 — Rationale]] — the register and composition alternatives step 4 chooses between
 - [[Exploration Plan]] — Phase 2 and 3, which steps 1 to 3 and 7 descend from
 - [[Categorization Scheme]] — the axes the fixture columns follow
-- [[Design]] — working mode, scaffold, and data decisions
+- [[Projects/Proverbs/Design Explorations/Design]] — working mode, scaffold, and data decisions

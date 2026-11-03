@@ -111,6 +111,6 @@ Proverbs counts: 915 rows carry a VerseId (first word of each verse only), 66 he
 
 ## Relevant To
 
-- [[Projects/Proverbs/Design|Design]] — open item: translation text input format(s) the builder accepts
+- [[Projects/Proverbs/Design Explorations/Design|Design]] — open item: translation text input format(s) the builder accepts
 - [[Text Version Comparison]]
-- [[Projects/Proverbs/Ideal State|Ideal State]] — ISC-41, 43 (version-specific tags); Hebrew-words cloud
+- [[Ideal State|Ideal State]] — ISC-41, 43 (version-specific tags); Hebrew-words cloud

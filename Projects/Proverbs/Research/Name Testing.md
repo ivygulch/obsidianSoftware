@@ -8,7 +8,7 @@ updated: 2026-10-26
 
 # Proverbs — Name Testing
 
-> How to narrow the app name once candidates exist. Candidates and the naming landscape are in [[App Store Titles and Descriptions]]; the product name is an open scaffold decision in [[Projects/Proverbs/Design|Design]]. Platform facts below are from vendor pages and third-party guides fetched 2026-10-26; budget and sample figures are planning estimates from agency blogs, not published platform minimums.
+> How to narrow the app name once candidates exist. Candidates and the naming landscape are in [[App Store Titles and Descriptions]]; the product name is an open scaffold decision in [[Projects/Proverbs/Design Explorations/Design|Design]]. Platform facts below are from vendor pages and third-party guides fetched 2026-10-26; budget and sample figures are planning estimates from agency blogs, not published platform minimums.
 
 ## What an ad A/B test measures, and what it does not
 
@@ -62,5 +62,5 @@ Subtitle candidates: "Proverbs by situation", "Proverbs, linked like a wiki", "F
 ## Relevant To
 
 - [[App Store Titles and Descriptions]]
-- [[Projects/Proverbs/Design|Design]]
-- [[Projects/Proverbs/Ideal State|Ideal State]]
+- [[Projects/Proverbs/Design Explorations/Design|Design]]
+- [[Ideal State|Ideal State]]
