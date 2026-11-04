@@ -17,7 +17,7 @@ themes: [e-commerce, club-retail, reactive-migration, checkout, testing]
 deliverables: [sams-club-swift-migration, checkout-refactor]
 status: past
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-11-03
 ---
 
 # Walmart - Sams Club 2017-2020
@@ -33,7 +33,7 @@ Core iOS contributor on the Sam's Club team within WalmartLabs. Led the checkout
 ## Achievements
 
 - Migrated Sam's Club Objective-C codebase to Swift with uninterrupted service for ~2M DAU. #migration #swift #objective-c #legacy-refactoring
-- Continued reactive architecture conversion on Sam's Club using RxSwift. #reactive #rxswift #architecture
+- Converted the Sam's Club iOS app to an RxSwift-based reactive architecture, migrating existing flows incrementally during the Objective-C-to-Swift migration. #reactive #rxswift #architecture #migration
 - Prepared migration path to SwiftUI and Combine frameworks. #swiftui #combine #migration-planning
 - Led refactor of checkout to unidirectional, reactive architecture. #checkout #architecture #reactive
 - Drove significant increase in checkout test coverage during the refactor. #testing #xctest #metrics
@@ -43,6 +43,8 @@ Core iOS contributor on the Sam's Club team within WalmartLabs. Led the checkout
 Objective-C, Swift, RxSwift, Combine (migration prep), SwiftUI (migration prep), iOS SDK, XCTest.
 
 ## Private Notes
+
+_2026-11-03: Doug's own wording for the RxSwift work is "I helped move their app to a RxSwift based architecture." The bullet uses "Converted" to parallel the ASDA reactive bullet on the reference resume; chosen by Doug 2026-11-03. Use it when a posting asks for RxSwift or reactive-framework experience (Raya Places posting, 2026-11-03)._
 
 _Prior resume copy cited coverage moving from "<50% to >75%" during this refactor — directional is correct but numbers are approximate and should be verified before being used on an ATS resume with the specific figures. The Walmart Checkout FTE era (2021-2026) continued this growth further, toward ~85%._
 
