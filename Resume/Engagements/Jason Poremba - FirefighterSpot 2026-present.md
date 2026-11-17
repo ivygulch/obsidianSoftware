@@ -6,7 +6,7 @@ role: "Lead iOS Engineer & Architect"
 employment: independent
 start: 2026-02
 end: 2026-06
-concurrent_with: ["[[CLEAR - Senior iOS Subcontract 2026-present]]"]
+concurrent_with: ["[[CLEAR - Senior iOS Subcontract 2026-present]]", "[[Ivy Gulch - Routy Flight History Demo 2026]]"]
 industry: [Public Safety, Fire Service, Nonprofit, Mobile Applications]
 team_size: "solo"
 team_context: "sole engineer with individual client"
@@ -73,5 +73,5 @@ _Filename and H1 still read "2026-present"; left unchanged to avoid breaking inb
 ## Related
 
 - Company: [[Jason Poremba]]
-- Concurrent engagement: [[CLEAR - Senior iOS Subcontract 2026-present]]
+- Concurrent engagements: [[Ivy Gulch - Routy Flight History Demo 2026]], [[CLEAR - Senior iOS Subcontract 2026-present]]
 - Skills: _(to be linked once Skills/ pages exist)_

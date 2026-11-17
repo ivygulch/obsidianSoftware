@@ -6,7 +6,7 @@ role: "Senior iOS Subcontractor"
 employment: subcontractor
 start: 2026-02
 end: 2026-08
-concurrent_with: ["[[Jason Poremba - FirefighterSpot 2026-present]]"]
+concurrent_with: ["[[Jason Poremba - FirefighterSpot 2026-present]]", "[[Ivy Gulch - Routy Flight History Demo 2026]]"]
 industry: [Identity Verification, Travel, Airline Travel, Biometrics, Mobile Applications]
 team_size: "6-engineer iOS team"
 team_context: "senior subcontractor"
@@ -65,5 +65,5 @@ _Contracted through Stride staffing agency (Eric Schoenfeld, eschoenfeld@stride.
 ## Related
 
 - Company: [[CLEAR]]
-- Concurrent engagement: [[Jason Poremba - FirefighterSpot 2026-present]]
+- Concurrent engagements: [[Ivy Gulch - Routy Flight History Demo 2026]], [[Jason Poremba - FirefighterSpot 2026-present]]
 - Skills: _(to be linked once Skills/ pages exist)_

@@ -26,3 +26,4 @@ Deep exploration of Swift isolation: from legacy locking through actors, region-
 
 - [[Isolation Principles]] — key principles distilled from the series, with episode references
 - [[Isolation vs Other Architectures]] — where the series agrees with and departs from Apple, Massicotte, and Clean Architecture / SwiftData guidance
+- [[Isolation Review Matrix]] — review grid: type kind × member access × isolation setting (default MainActor, nonisolated, sending, Sendable)
